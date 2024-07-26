@@ -1,0 +1,75 @@
+git init 
+
+- Inicia um novo repositório no Git.
+
+git clone 
+
+- Cria uma cópia local de um repositório.
+
+git add . 
+
+- Adiciona todas as mudanças no diretório atual para serem incluídas no commit.
+
+git commit -m "texto" 
+
+- Salva as mudanças adicionas ao índice. 
+
+git status 
+
+- Exibe o estado atual do repositório.
+
+git log 
+
+- Mostra o histórico de commits do repositório. 
+
+git branch 
+
+- Lista todos os branches de repositório e destaca o branch atual. 
+
+git branch [nome-da-branch]
+
+- Cria um novo branch.
+
+git checkout [nome-da-branch]
+
+- Altera para uma branch específica.
+
+git merge [branch]
+
+- Combina as alterações de uma branch para uma branch atual. 
+
+git pull
+
+- Atualiza o repositório local com as alterações do repositório remoto. 
+
+git push [remove] [branch]
+
+- Envia os commits locais para o repositório remoto. 
+
+git remove -v 
+
+- Lista os repositório remotos configurados. 
+
+git fetch 
+
+- Recupera as últimas alterações do repositório remoto, mas não faz merge automático. 
+
+git reset [arquivo]
+
+- Remove um arquivo específico do índice, mas mantém as alterações no diretório de trabalho. 
+
+git rm [arquivo]
+
+- Remove um arquivo do repositório e o inclui no próximo commit. 
+
+git diff 
+
+- Mostra as diferenças entre asalterações que ainda não foram adicionadas ao índice. 
+
+git remote add [nome-remoto] [URL]
+
+- Adiciona um repositório removo com um nome específico. 
+
+git push add origin main 
+
+- Executado para efetuar push das alterações locais para o repositório online. 
