@@ -2,5 +2,17 @@ Git é um sistema de controle de versão distribuído, ideal para gerenciar proj
 
 Por outro lado, GitHub é uma plataforma de hospedagem de código que utiliza o Git como base. GitHub oferece um ambiente colaborativo para desenvolvedores, facilitando o compartilhamento, a colaboração e o controle de versão dos projetos.
 
+Como eles se relacionam? 
+- Hospedagem de Repositório 
+- Colaboração em Equipe
+- Rastreamento de Problemas e Projetos
+- Versionamento de Código 
+- Forks e Branches
+
+Forks: Um fork é uma cópia de um repositório que fica no próprio GitHub. É usado para fazer alterações no projeto original sem afetar o repositório principal.
+
+Branches: Um branch é uma linha separada de desenvolvimento dentro do mesmo repositório. Ele permite que você trabalhe em novas funcionalidades, correções de bugs ou experimentos sem afetar o branch principal.
+
+
 
 
